@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "socket.io chat app",
+  "scripts": {
+    "start": "supervisor node index.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.3.3",
+    "cookie-session": "^1.0.2",
+    "ejs": "^1.0.0",
+    "express": "^4.4.1",
+    "express-session": "^1.9.1",
+    "node-uuid": "^1.4.1",
+    "socket.io": "^1.0.4"
+  },
+  "devDependencies": {
+    "supervisor": "^0.6.0"
+  }
+}
