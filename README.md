@@ -106,6 +106,8 @@ Finally on the client side of the user when adminBroadcast is received, the user
   })
 ```
 
+###Conclusion
+
 There you have an end to end way in which a set of admins can track a set of users on a website and send notifications. This system can be particularly valuable when the user's primary reason for visit accompanies purchasing intent. E-commerce and SAAS platforms have recognized the importance to user segmentation and targeted outreach. This system enables you to minimize the latency of such outreach. On the plus side, you can get to rely on fully open source tools with broad user bases and support.
 
 If you are doing some level of realtime tracking on your site, I would love to hear about it. Feel free to send over any feedback to avi@aviadas.com.
